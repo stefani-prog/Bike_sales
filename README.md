@@ -15,7 +15,8 @@
 
 ### Project Overview
 
-This data analysis project aims to provide insights into the bike sales of an organisation and how customer demographics affect purchasing behavior. Using a dataset of consumer attributes—such as income, age, commute distance etc—the analysis uncovers how different consumer attributes are related to them buying a bike or not, it helps the business better target potential buyers.
+This data analysis project aims to provide insights into the bike sales of an organisation and how customer demographics affect purchasing behavior. Using a dataset of consumer attributes—such as income, age, commute distance etc—the analysis uncovers how different consumer attributes are related to them buying a bike or not, it helps the business better target potential buyers. I used data from [Alex the Analyst](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx)
+
 ![image](https://github.com/user-attachments/assets/7fed8564-b5f2-4f5d-924a-68b3d518680f)
 
 
